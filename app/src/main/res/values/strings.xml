@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name" translatable="false">Al Amir</string>
+    <string name="cd_item_image">Item image</string>
+    <string name="cd_edit">Edit</string>
+    <string name="cd_call">Call</string>
+    <string name="cd_navigate">Navigate</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_add_item">Add Item</string>
+    <string name="cd_empty_list">Empty list</string>
+    <string name="empty_list">Not items added</string>
+    <string name="store_name_hint">Store Name</string>
+    <string name="store_area_hint">Area</string>
+    <string name="store_city_hint">City</string>
+    <string name="store_phone_hint">Phone Number</string>
+    <string name="add_item">Add Item</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search by store name</string>
+    <string name="cd_cancel_search">Cancel search</string>
+    <string name="general_error">An error happened, try again later</string>
+    <string name="update_item">Update Item</string>
+    <string name="enter_valid_name">Enter a vaild name</string>
+    <string name="enter_valid_city">Enter a valid city</string>
+    <string name="enter_valid_area">Enter a valid area</string>
+    <string name="enter_valid_phone">Enter a valid phone</string>
+    <string name="item_deleted">Item deleted successfully</string>
+    <string name="item_added">Item added successfully</string>
+    <string name="item_updated">Item updated successfully</string>
+    <string name="select_or_take_photo">Select or take a photo</string>
+</resources>

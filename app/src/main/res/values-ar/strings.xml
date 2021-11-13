@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="cd_item_image">صورة العنصر</string>
+    <string name="cd_edit">تعديل</string>
+    <string name="cd_call">اتصال</string>
+    <string name="cd_navigate">تحرك</string>
+    <string name="cd_search">بحث</string>
+    <string name="cd_add_item">إضافة عنصر</string>
+    <string name="cd_empty_list">قائمة</string>
+    <string name="empty_list">لا توجد عناصر مضافة</string>
+    <string name="store_name_hint">اسم المتجر</string>
+    <string name="store_area_hint">المنطقة</string>
+    <string name="store_city_hint">المدينة</string>
+    <string name="store_phone_hint">رقم الهاتف</string>
+    <string name="add_item">اضافة</string>
+    <string name="select_photo">اختر صورة</string>
+    <string name="take_photo">التقط صورة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="delete">حذف</string>
+    <string name="search">بحث بإسم المتجر</string>
+    <string name="cd_cancel_search">إلغاء البحث</string>
+    <string name="general_error">لقد حدث خطأ، حاول مرة اخرى</string>
+    <string name="update_item">تحديث</string>
+    <string name="enter_valid_name">ادخل اسم صحيح</string>
+    <string name="enter_valid_city">ادخل مدينة صحيحة</string>
+    <string name="enter_valid_area">ادخل منطقة صحيحة</string>
+    <string name="enter_valid_phone">ادخل رقم هاتف صحيح</string>
+    <string name="item_deleted">تم الحذف بنجاح</string>
+    <string name="item_added">تمت الإضافة بنجاح</string>
+    <string name="item_updated">تم التحديث بنجاح</string>
+    <string name="select_or_take_photo">إختر او إلتقط صورة</string>
+</resources>

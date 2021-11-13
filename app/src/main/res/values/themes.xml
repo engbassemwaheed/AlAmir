@@ -1,0 +1,55 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.AlAmir" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/red</item>
+        <item name="colorPrimaryVariant">@color/red_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/blue</item>
+        <item name="colorSecondaryVariant">@color/blue_dark</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <item name="android:textColor">@color/black</item>
+        <item name="android:fontFamily">@font/ibm_plex_sans_arabic_regular</item>
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="AmirMainDisplay" parent="Theme.AlAmir">
+        <item name="android:paddingStart">@dimen/half_margin</item>
+        <item name="android:paddingEnd">@dimen/half_margin</item>
+        <item name="android:paddingTop">@dimen/search_height</item>
+        <item name="android:paddingBottom">@dimen/add_item_height</item>
+    </style>
+
+    <style name="AmirNameTextStyle" parent="Theme.AlAmir">
+        <item name="android:textSize">@dimen/title_text_size</item>
+        <item name="android:fontFamily">@font/ibm_plex_sans_arabic_regular</item>
+        <item name="android:layout_marginStart">@dimen/text_margin_start</item>
+        <item name="android:layout_marginEnd">@dimen/text_margin_end</item>
+        <item name="android:layout_marginTop">@dimen/text_margin_top</item>
+        <item name="android:drawablePadding">@dimen/text_drawable_padding</item>
+        <item name="android:maxLines">@integer/max_lines</item>
+        <item name="android:ellipsize">end</item>
+    </style>
+
+    <style name="AmirOtherTextStyle" parent="AmirNameTextStyle">
+        <item name="android:textSize">@dimen/other_text_size</item>
+    </style>
+
+    <style name="AmirImageButton" parent="Theme.AlAmir">
+        <item name="android:layout_gravity">center</item>
+        <item name="android:background">?attr/selectableItemBackgroundBorderless</item>
+    </style>
+
+    <color name="accent_color">@color/blue</color>
+    <color name="separator_color">@color/light_white</color>
+    <color name="primary_color">@color/red</color>
+    <color name="search_background">@color/white</color>
+
+
+
+</resources>
